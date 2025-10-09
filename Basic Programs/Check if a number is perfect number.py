@@ -8,3 +8,5 @@ def is_perfect_number(n):
             divisor_sum += i
     
     return divisor_sum == n
+
+print(is_perfect_number(6))
