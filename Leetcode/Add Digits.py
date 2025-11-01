@@ -9,4 +9,4 @@ class Solution:
                 sumd = sumd + digit
                 num = num//10
             num = sumd
-        return num 
+        return num
